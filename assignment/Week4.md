@@ -1,6 +1,6 @@
 # 데이터분석 4주차 정규과제
 
-📌데이터분석 정규과제는 매주 정해진 분량의 『*혼자 공부하는 데이터 분석 with 파이썬*』 을 읽고 학습하는 것입니다. 이번 주는 아래의 **DataAnalysis_4st_TIL**에 나열된 분량을 읽고 공부하시면 됩니다.
+📌데이터분석 정규과제는 매주 정해진 분량의 『*혼자 공부하는 데이터 분석 with 파이썬*』 을 읽고 학습하는 것입니다. 이번 주는 아래의 **DataAnalysis_4th_TIL**에 나열된 분량을 읽고 공부하시면 됩니다.
 
 아래의 문제를 풀어보며 학습 내용을 점검하세요. 문제를 해결하는 과정에서 개념을 스스로 정리하고, 필요한 경우 제시된 강의를 참고하여 보완하는 것이 좋습니다.
 
@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 -->
 
 
-## DataAnalysis_4st_TIL
+## DataAnalysis_4th_TIL
 
 ### 4장 데이터 요약하기
 #### 01. 통계로 요약하기
